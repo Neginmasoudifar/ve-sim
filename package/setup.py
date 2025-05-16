@@ -8,7 +8,7 @@ setup(
     "traci",
     "simpy",
     "numpy",
-    "torch",
+    "pytorch",
     "gymnasium",
     "pandas"
     ],
